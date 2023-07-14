@@ -42,12 +42,12 @@ p{
 
 .descrição {
     /*cor do texto da descrião*/
-    color:red;
+    color blue;
 }
 
 .comprando {
     background-color: #adacac;
-    color: black;
+    color: pink;
     display: block;
     padding: 12px 16px;
     /*border-radius pra borda arredondada*/

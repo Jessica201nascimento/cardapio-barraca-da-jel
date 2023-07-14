@@ -16,7 +16,7 @@ h1 {
 h2 {
     color: #00f;
     font-family: Comic Sans MS;
-    font-size: 20px;
+    font-red: 20px;
     font-style: italic;
     text-align: center;
 
@@ -25,7 +25,7 @@ h2 {
 
 h3 {
     text-align: reight;
-    color: red;
+    color: violet;
     font-family: Lucida Calligraphy;
     margin: 16px;
     font-size: 20px;
@@ -42,12 +42,12 @@ p{
 
 .descrição {
     /*cor do texto da descrião*/
-    color blue;
+    color:red;
 }
 
 .comprando {
     background-color: #adacac;
-    color: pink;
+    color: black;
     display: block;
     padding: 12px 16px;
     /*border-radius pra borda arredondada*/

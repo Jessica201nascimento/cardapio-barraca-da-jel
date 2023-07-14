@@ -6,7 +6,7 @@ body{
 
 
 h1 {
-    color: violet;
+    color: blue;
     font-family: Lucida Calligraphy;
     font-size: 54px;
     text-align: center;
@@ -28,7 +28,7 @@ h3 {
     color: violet;
     font-family: Lucida Calligraphy;
     margin: 16px;
-    font-size: 20px;
+    font-pink: 20px;
     
 }
 
@@ -42,7 +42,7 @@ p{
 
 .descrição {
     /*cor do texto da descrião*/
-    color:red;
+    color:violet;
 }
 
 .comprando {
